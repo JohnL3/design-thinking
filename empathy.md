@@ -17,6 +17,7 @@ Find the problem
 
 - Define
  - Having talked to other departments and found there needs we can now choose the point of view that we want to define for 
+  - Use a Say Do Think Feel map
 
 #### Phase 2
 Find the solution  
@@ -31,3 +32,21 @@ Find the solution
 
 - Identify and state them early on
 - Find people with different perspectives
+
+## Define: Making sense of your data
+
+### Personas
+
+Dont assume what would work for one team would work for all teams  
+
+### Point of view (POV) statements
+
+- I met _____
+- I was surprised to realise _____
+- I wonder if this means ______
+- It seems like they need a way to _____
+
+## Ideate: How might we design for our users
+
+Create How Might We statements based on our POV statements
+

@@ -7,7 +7,9 @@
 _When you interview your users, what do you think they will think needs change (or does not) in your chosen challenge space?_
 
 - More time planning before starting a project
+ - Increasing the amount of time spent on project planning improves project outcomes
 - Working on too many project at the same time
+ - Multitasking on multiple projects reduces productivity and efficiency
 - Planned maintenance
 - closer collaboration with other departments
 - Don't restrict the creative process

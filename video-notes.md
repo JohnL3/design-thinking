@@ -40,4 +40,12 @@ Ensure to have a metric that can be measured before and after the process
 - Qualitative measures, e.g. getting feedback from your users
  - Are all departments our users or is it a case that some departments are our users more than others
 
+Create an interview guide  
+- Go out and interview people from different stakeholder groups  
 
+## Define: Making sense of your data
+
+- Synthesis Frameworks  
+ - [IDEO Emphaty maps](https://www.ideo.com/blog/build-your-creative-confidence-empathy-maps)
+-Personas
+ - [Kill your personas](https://medium.com/microsoft-design/kill-your-personas-1c332d4908cc)
